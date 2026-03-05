@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center"> Oi, sou o Gustavo</h1>
 
-<!--
-**GCB-programador/GCB-programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e Tecnologia em Jogos Digitais
 
-Here are some ideas to get you started:
+📚 Atualmente estudando Python, APIs e Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Em busca da primeira oportunidade como Desenvolvedor / Estagiário em TI
+
+---
+
+<h1 align="center"> Sobre mim</h1>
+
+Sou estudante de tecnologia apaixonado por programação e resolução de problemas.
+
+Tenho interesse em:
+
+- Desenvolvimento de software
+- Automação de processos
+- Criação de sistemas que facilitam o dia a dia
+- Desenvolvimento de jogos
+
+Atualmente estou focado em evoluir minhas habilidades em:
+
+- Programação
+- Lógica de programação
+- Desenvolvimento de projetos reais
+
+para ingressar no mercado de tecnologia.
+
+---
+
+🚀 Tecnologias e Ferramentas
+
+- Python
+- JavaScript
+- Git & GitHub
+- HTML / CSS
+- SQL
+- Lógica de Programação
+- Unity
